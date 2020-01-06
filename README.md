@@ -13,3 +13,6 @@ git commit -m "mon commit explicatif"
 git push
 
 ```
+## 
+git log ### pour voir tous les commit qui ont été envoyé
+
