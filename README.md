@@ -16,3 +16,4 @@ git push
 ## 
 git log ### pour voir tous les commit qui ont été envoyé
 
+## commandes laravel
